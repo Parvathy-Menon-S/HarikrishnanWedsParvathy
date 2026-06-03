@@ -56,7 +56,7 @@
     {
       "heading": "Dakshina",
       "subheading": "Sunday, July 04, 2026, 10 AM",
-      "meta": ["Royal Convention Centre, Pattambi, Palakkad", ""],
+      "meta": ["At the groom's residence", ""],
       "animationPreset": "fade-up",
       "timing": { "duration": 0.9, "delay": 0 }
     },
@@ -81,8 +81,8 @@
         {
           "event": "Dakshina",
           "date": "Saturday, July 04, 2026 · 10:00 AM",
-          "venue": "Royal Convention Centre, Pattambi, Palakkad",
-          "mapUrl": "https://maps.app.goo.gl/Y6VrhV4bonxn3mBMA"
+          "venue": "Groom's Residence, Kinassery, Palakkad",
+          "mapUrl": "https://maps.app.goo.gl/eoVtjSTKMBVKzoFk6"
         },
         {
           "event": "The Auspicious Muhurtham",
